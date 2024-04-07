@@ -48,11 +48,12 @@
 
 <img src="https://raw.githubusercontent.com/Bambidev/readme/output/snake.svg" alt="Snake animation" />
 
-
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+  <a href="intbambi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=intbambi&logo=discord&label=user&color=7289DA&logoColor=&labelColor=white&style=flat" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
