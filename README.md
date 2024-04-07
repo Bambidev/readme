@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bambidev/readme/main/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Bambidev/readme/output/snake.svg" alt="Snake animation" />
 
 
 ###
